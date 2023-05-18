@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(40, 110, 110);
+    margin: auto
+}
+.container{
+    margin:50 50 50 50;
+}
+.navbar{    
+    background-color: #7fff00;
+    border-radius: 30px;
+}
+main{
+    display: flex;
+    justify-content: center;
+    background-color: blueviolet;
+    border-radius: 60px;
+}
+
+.navbar p{
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+}
+
+.navbar input{
+    display: flex;
+    justify-content:flex-end;
+}
+
+#d{
+    background-color: red;
+}
+footer{
+    border: 1px solid black;
+    background-color: white;
+}
